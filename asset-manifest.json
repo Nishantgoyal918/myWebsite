@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myWebsite/static/css/main.fed0e8b9.chunk.css",
+    "main.js": "/myWebsite/static/js/main.e91cd6d7.chunk.js",
+    "main.js.map": "/myWebsite/static/js/main.e91cd6d7.chunk.js.map",
+    "runtime-main.js": "/myWebsite/static/js/runtime-main.afd30802.js",
+    "runtime-main.js.map": "/myWebsite/static/js/runtime-main.afd30802.js.map",
+    "static/js/2.02d01c4d.chunk.js": "/myWebsite/static/js/2.02d01c4d.chunk.js",
+    "static/js/2.02d01c4d.chunk.js.map": "/myWebsite/static/js/2.02d01c4d.chunk.js.map",
+    "index.html": "/myWebsite/index.html",
+    "precache-manifest.914b0915bffa399fcfba37447ad0a8a0.js": "/myWebsite/precache-manifest.914b0915bffa399fcfba37447ad0a8a0.js",
+    "service-worker.js": "/myWebsite/service-worker.js",
+    "static/css/main.fed0e8b9.chunk.css.map": "/myWebsite/static/css/main.fed0e8b9.chunk.css.map",
+    "static/js/2.02d01c4d.chunk.js.LICENSE.txt": "/myWebsite/static/js/2.02d01c4d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/myWebsite/static/media/back-1.6ff11806.png",
+    "static/media/icofont.min.css": "/myWebsite/static/media/icofont.36e0de11.woff2",
+    "static/media/logo.svg": "/myWebsite/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afd30802.js",
+    "static/js/2.02d01c4d.chunk.js",
+    "static/css/main.fed0e8b9.chunk.css",
+    "static/js/main.e91cd6d7.chunk.js"
+  ]
+}
